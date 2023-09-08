@@ -1,0 +1,10 @@
+.card {
+    margin-top: 1rem;
+}
+
+.post-card {
+    margin-top: 20px;
+    background-color: green;
+    padding: 5px;
+    border-radius: 25px;
+}
